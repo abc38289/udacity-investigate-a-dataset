@@ -3,7 +3,7 @@
 
 ### Date created
 
-Jerry Liu created this project on January 2, 
+Jerry Liu created this project on January 2, 2024
 
 ## Project Overview
 
